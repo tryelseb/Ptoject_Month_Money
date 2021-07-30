@@ -1,0 +1,39 @@
+{
+  "name": "1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "core-js": "^3.8.3",
+    "firebase": "^8.2.5",
+    "lodash": "^4.17.21",
+    "materialize-css": "^1.0.0-rc.2",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.12",
+    "vue-chartjs": "^3.5.1",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.5.1",
+    "vuejs-paginate": "^2.1.0",
+    "vuelidate": "^0.7.6",
+    "vuex": "^3.6.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.11",
+    "@vue/cli-plugin-eslint": "^4.5.11",
+    "@vue/cli-plugin-pwa": "^4.5.11",
+    "@vue/cli-plugin-router": "^4.5.11",
+    "@vue/cli-plugin-vuex": "^4.5.11",
+    "@vue/cli-service": "^4.5.11",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
